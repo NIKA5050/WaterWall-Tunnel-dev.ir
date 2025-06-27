@@ -147,7 +147,7 @@ tunnel_menu(){
 
 install_core(){
 
-wget https://github.com/radkesvat/WaterWall/releases/download/v1.32/Waterwall-linux-64.zip
+wget https://github.com/radkesvat/WaterWall/releases/download/v1.33/Waterwall-linux-64.zip
 apt install unzip && unzip Waterwall-linux-64.zip
 chmod +rwx Waterwall
     
